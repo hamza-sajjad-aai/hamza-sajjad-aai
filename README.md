@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hamza-sajjad-aai
+- 👋 Hi, I’m Muhammad Hamza Sajjad Abbasi
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C++
